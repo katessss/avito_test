@@ -1,0 +1,5 @@
+data/*
+!data/README.md
+artifacts/
+answer*.csv
+__pycache__/
